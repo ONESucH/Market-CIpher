@@ -1,4 +1,4 @@
-# Market-CIpher A
+# Market Cipher A
 
 //@version=3
 study(title="Market Cipher A", overlay=true)
